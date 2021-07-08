@@ -20,7 +20,7 @@ Here are a few things I've picked up along my learning journey.
  
  ## Projects
 
-[COVID-19 Dashboard](https://github.com/Swanand01/covid-india-dashboard)\
+[COVID-19 Dashboard](https://share.streamlit.io/swanand01/covid-india-dashboard/main/app.py)\
 [ANTON LAN Storage](https://github.com/Swanand01/anton-LAN-storage)\
 [Solvr](https://github.com/Swanand01/ocr-question-solver)
 
