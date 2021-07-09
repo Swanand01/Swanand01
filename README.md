@@ -26,6 +26,7 @@ I'm on track for learning more about Artificial Intelligence and Cloud Architect
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swanandmathekar@gmail.com)
 
 [![Swanand's GitHub stats](https://github-readme-stats.vercel.app/api?username=Swanand01)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Swanand01)](https://github.com/Swanand01/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+
 
  
