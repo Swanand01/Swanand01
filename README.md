@@ -25,13 +25,7 @@ I'm on track for learning more about Artificial Intelligence and Cloud Architect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/swanand-mathekar)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swanandmathekar@gmail.com)
 
-### GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Swanand01&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Swanand01&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+![Swanand's github stats](https://github-readme-stats.vercel.app/api?username=Swanand01)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Swanand01)](https://github.com/Swanand01/github-readme-stats)
 
  
