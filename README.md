@@ -28,7 +28,7 @@ I'm on track for learning more about Artificial Intelligence and Cloud Architect
 
 ### Github Analytics
 
-[![Swanand's GitHub stats](https://github-readme-stats.vercel.app/api?username=Swanand01&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
+[![Swanand's GitHub stats](https://github-readme-stats.vercel.app/api?username=Swanand01&count_private=true&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Swanand01&hide=jupyter%20notebook&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
