@@ -3,7 +3,7 @@
 
 I am a python developer and data science enthusiast.\
 Currently an IT Engineering undergrad.\
-I'm on track for learning more about Artificial Intelligence and Cloud Architecture.
+I'm on track for learning more about Cloud Architecture.
 
 ## Tech Stack
 
