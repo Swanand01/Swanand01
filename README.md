@@ -1,7 +1,7 @@
 
 # Hello World, I am Swanand 
 
-I am a python developer and data science enthusiast.\
+I am a full stack developer and data science enthusiast.\
 Currently an IT Engineering undergrad.\
 I'm on track for learning more about Cloud Architecture.
 
@@ -17,9 +17,8 @@ I'm on track for learning more about Cloud Architecture.
  
  ## Projects
 
-[COVID-19 Dashboard](https://share.streamlit.io/swanand01/covid-india-dashboard/main/app.py)\
-[ANTON LAN Storage](https://github.com/Swanand01/anton-LAN-storage)\
-[Solvr](https://github.com/Swanand01/ocr-question-solver)
+[PeerShare](https://github.com/Swanand01/PeerShare)\
+[CollabCode](https://github.com/Swanand01/CollabCode)
 
 ### Get in touch
 
@@ -31,6 +30,3 @@ I'm on track for learning more about Cloud Architecture.
 [![Swanand's GitHub stats](https://github-readme-stats.vercel.app/api?username=Swanand01&count_private=true&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Swanand01&hide=jupyter%20notebook&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
- 
