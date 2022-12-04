@@ -1,9 +1,8 @@
 
 # Hello World, I am Swanand 
 
-I am a full stack developer and data science enthusiast.\
+I am a full stack developer.\
 Currently an IT Engineering undergrad.\
-I'm on track for learning more about Cloud Architecture.
 
 ## Tech Stack
 
