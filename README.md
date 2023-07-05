@@ -19,7 +19,8 @@ Currently an IT Engineering undergrad.
  ## Projects
 
 [PeerShare](https://github.com/Swanand01/PeerShare)\
-[CollabCode](https://github.com/Swanand01/CollabCode)
+[CollabCode](https://github.com/Swanand01/CollabCode)\
+[Streaminal](https://github.com/Swanand01/streaminal-tv)
 
 ### Get in touch
 
