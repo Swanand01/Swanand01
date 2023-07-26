@@ -1,8 +1,7 @@
 
 # Hello World, I am Swanand 
 
-I am a full stack developer.\
-Currently an IT Engineering undergrad.
+I am a full stack developer and an IT Engineering undergrad.
 
 ## Tech Stack
 
