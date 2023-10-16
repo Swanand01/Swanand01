@@ -18,7 +18,7 @@ I am a full stack developer and an IT Engineering undergrad.
  ## Projects
 
 [PeerShare](https://github.com/Swanand01/PeerShare)\
-[CollabCode](https://github.com/Swanand01/CollabCode)\
+[CollabCode](https://github.com/Swanand01/CollabCode)
 
 ### Get in touch
 
