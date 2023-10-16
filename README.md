@@ -19,7 +19,6 @@ I am a full stack developer and an IT Engineering undergrad.
 
 [PeerShare](https://github.com/Swanand01/PeerShare)\
 [CollabCode](https://github.com/Swanand01/CollabCode)\
-[Streaminal](https://github.com/Swanand01/streaminal-tv)
 
 ### Get in touch
 
