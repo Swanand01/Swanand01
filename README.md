@@ -1,7 +1,7 @@
 
 # Hello World, I am Swanand 
 
-I am a full stack developer and an IT Engineering undergrad.
+I am a full stack developer and an IT Engineering grad.
 
 ## Tech Stack
 
@@ -20,7 +20,7 @@ I am a full stack developer and an IT Engineering undergrad.
  
  ## Projects
 
-[PeerShare](https://github.com/Swanand01/PeerShare)\
+[Pulse](https://github.com/Swanand01/Pulse)\
 [CollabCode](https://github.com/Swanand01/CollabCode)\
 [Feedboard](https://github.com/Swanand01/feedboard)
 
